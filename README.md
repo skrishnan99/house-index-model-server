@@ -1,4 +1,4 @@
-This is a fork form - https://github.com/IDEA-Research/Grounded-Segment-Anything
+This is a fork from - https://github.com/IDEA-Research/Grounded-Segment-Anything
 
 ![](./assets/Grounded-SAM_logo.png)
 
